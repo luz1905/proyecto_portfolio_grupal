@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Estudiante 1",
+        "role": "Desarrollador Frontend",
+        "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Felix&colors=cyan,blue"
+    },
+    {
+        "name": "Estudiante 2",
+        "role": "Diseñador UX/UI",
+        "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Aneka&colors=blue,indigo"
+    },
+    {
+        "name": "Estudiante 3",
+        "role": "Desarrollador Backend",
+        "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Oliver&colors=cyan,teal"
+    }
+]
