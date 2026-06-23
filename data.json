@@ -1,17 +1,17 @@
 [
     {
-        "name": "Estudiante 1",
+        "name": "Luz Duarte",
         "role": "Desarrollador Frontend",
-        "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Felix&colors=cyan,blue"
+        "avatar": "https://api.dicebear.com/10.x/thumbs/svg?bodyProbability=100&eyesVariant=variant01&mouthVariant=variant01,variant02&backgroundColor=69d2e7,b6e3f4&backgroundColorFill=radial&seed=luz"
     },
     {
-        "name": "Estudiante 2",
+        "name": "Alejo Storaccio",
         "role": "Diseñador UX/UI",
-        "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Aneka&colors=blue,indigo"
+        "avatar":"https://api.dicebear.com/10.x/bottts-neutral/svg?eyesVariant=frame2&mouthVariant=square02&textureVariant=camo02,circuits,dirty01,dirty02&backgroundColor=de6811,c67c11,b18911,9b9312,7a9f12,40a843,7681f5,9975ea,b46bd6,d95c9a,e25a75,978d87,8f8f8f,879198&seed=alejo"
     },
     {
-        "name": "Estudiante 3",
+        "name": "Matias Aguero",
         "role": "Desarrollador Backend",
-        "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Oliver&colors=cyan,teal"
+        "avatar": "https://api.dicebear.com/10.x/lorelei/svg?beardVariant=variant02&earringsVariant=&eyebrowsVariant=variant03&headVariant=variant04&hairVariant=variant34,variant44&mouthVariant=happy07&noseVariant=variant05&eyesVariant=variant03&glassesVariant=&seed=matias"
     }
 ]
